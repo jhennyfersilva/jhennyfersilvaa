@@ -1,1 +1,13 @@
-# jhennyfersilvaa
+### boas Vindas ao meu perfil
+
+Meu nome é jhennyfer silva
+
+-Estou estudando na ALURA
+-Estou me desenvolvendo na linguagem JavaScipt
+-Utilizo ese espaço para minha organização e compartilhamento dos mus projetos desenvolvidos
+
+### Você pode entra em contato comigo :
+
+alurastartestudane@email.com
+
+@alurarastartestudante
