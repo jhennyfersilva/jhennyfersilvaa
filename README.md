@@ -11,3 +11,4 @@ Meu nome é jhennyfer silva
 alurastartestudane@email.com
 
 @alurarastartestudante
+![](https://tenor.com/pt-BR/view/miss-you-poke-cute-gif-13257955)
